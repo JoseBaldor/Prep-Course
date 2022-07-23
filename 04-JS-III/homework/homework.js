@@ -193,6 +193,9 @@ function empiezaConNueve(n) {
         return true;
     }
     return false;
+
+    //var boolean = n.toString()[0] === '9';
+    //retunr boolean;
 }
 
 
